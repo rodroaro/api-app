@@ -33,6 +33,8 @@ gem "bootsnap", require: false
 gem 'jsom-pagination'
 gem 'jsonapi-serializer'
 gem 'jsonapi_errors_handler'
+gem 'octokit', "~> 4.0"
+gem 'faraday-retry'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
